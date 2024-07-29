@@ -1,0 +1,84 @@
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\refint\Tamm.QDomain.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\bin\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\bin\Release\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\ref\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QDomain\obj\Release\net6.0\Tamm.QDomain.pdb

@@ -1,0 +1,150 @@
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\refint\Tamm.QData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\refint\Tamm.QData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\bin\Debug\net6.0\Tamm.QData.deps.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\bin\Debug\net6.0\Tamm.QData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\bin\Debug\net6.0\Tamm.QData.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.AssemblyReference.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.GeneratedMSBuildEditorConfig.editorconfig
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfoInputs.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.AssemblyInfo.cs
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CoreCompileInputs.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.csproj.CopyComplete
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\refint\Tamm.QData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\Tamm.QData.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QData\obj\Debug\net6.0\ref\Tamm.QData.dll

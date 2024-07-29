@@ -1,0 +1,1103 @@
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\Desktop\Supplier\Supplier net6\Tamm.QApi\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+D:\Projects\ECOMMERCE ARCH\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\rayala\source\repos\Tamimi Markets - Ecommerce - Catalog V1 E\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\refint\Tamm.QApi.dll
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\Cristine\source\repos\Ecomm\Tamimi Markets - Catalog V1\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\refint\Tamm.QApi.dll
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+C:\Users\devr\source\repos\--- Tamimi Markets - Ecomm - Catalog V1\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\ref\Tamm.QApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+C:\Users\kmanliguez\Source\Repos\Tamimi Markets - Catalog V2\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.AssemblyReference.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfoInputs.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.AssemblyInfo.cs
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CoreCompileInputs.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cs
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.MvcApplicationPartsAssemblyInfo.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\refint\Tamm.QApi.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\appsettings.Development.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\appsettings.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.staticwebassets.runtime.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.exe
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.deps.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.runtimeconfig.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApi.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Audit.EntityFramework.Core.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Audit.NET.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Audit.NET.SqlServer.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Audit.WebApi.Core.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Azure.Core.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Dapper.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\MediatR.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Serilog.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.dll
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QInfrastructure.Service.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QApplication.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QData.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\bin\Debug\net6.0\Tamm.QDomain.pdb
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\scopedcss\bundle\Tamm.QApi.styles.css
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.csproj.CopyComplete
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\Tamm.QApi.genruntimeconfig.cache
+D:\nnECOM\Tamimi Markets - Catalog V3\Tamm.QApi\obj\Debug\net6.0\ref\Tamm.QApi.dll

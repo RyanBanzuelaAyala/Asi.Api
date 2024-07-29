@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "DtEfx0QHvb7fYANWSA8FPW9gh4KAurjQRKoXQ3pzEEk=",
+  "Source": "Asi.Api",
+  "BasePath": "_content/Asi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Asi.Api\\wwwroot",
+      "Source": "Asi.Api",
+      "ContentRoot": "C:\\Users\\Ryan\\source\\dvps\\api\\Asi.Api\\wwwroot\\",
+      "BasePath": "_content/Asi.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

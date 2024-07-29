@@ -1,0 +1,16 @@
+C:\Users\Ryan\source\dvps\api\Asi.Data\bin\Debug\net6.0\Asi.Data.deps.json
+C:\Users\Ryan\source\dvps\api\Asi.Data\bin\Debug\net6.0\Asi.Data.dll
+C:\Users\Ryan\source\dvps\api\Asi.Data\bin\Debug\net6.0\Asi.Data.pdb
+C:\Users\Ryan\source\dvps\api\Asi.Data\bin\Debug\net6.0\Asi.Domain.dll
+C:\Users\Ryan\source\dvps\api\Asi.Data\bin\Debug\net6.0\Asi.Domain.pdb
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.AssemblyInfo.cs
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.sourcelink.json
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.csproj.Up2Date
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.dll
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\refint\Asi.Data.dll
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\Asi.Data.pdb
+C:\Users\Ryan\source\dvps\api\Asi.Data\obj\Debug\net6.0\ref\Asi.Data.dll

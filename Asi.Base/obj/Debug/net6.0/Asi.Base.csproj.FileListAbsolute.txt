@@ -1,0 +1,13 @@
+C:\Users\Ryan\source\dvps\api\Asi.Base\bin\Debug\net6.0\Asi.Base.deps.json
+C:\Users\Ryan\source\dvps\api\Asi.Base\bin\Debug\net6.0\Asi.Base.dll
+C:\Users\Ryan\source\dvps\api\Asi.Base\bin\Debug\net6.0\Asi.Base.pdb
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.AssemblyInfo.cs
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.sourcelink.json
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.dll
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\refint\Asi.Base.dll
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\Asi.Base.pdb
+C:\Users\Ryan\source\dvps\api\Asi.Base\obj\Debug\net6.0\ref\Asi.Base.dll
